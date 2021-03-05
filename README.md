@@ -6,6 +6,8 @@
 
 ### Find me elsewhere
 
-📸  [Instagram](https://www.instagram.com/thomazztur/) 
-💾	[Condepen](https://codepen.io/Thomerlin) 
+📸  [Instagram](https://www.instagram.com/thomazztur/)
+
+💾  [Condepen](https://codepen.io/Thomerlin) 
+
 💼  [LinkedIn](https://www.linkedin.com/in/Thomazzribeiro/?locale=en_US)
