@@ -2,7 +2,7 @@
 👨‍💻 Technology enthusiast, mainly in web dev, cyber security, game dev and blockchain
 	(Bitcoin). 
 - 📍 Living in Brazil
-- 💻 Freelancer Front-end engineer
+- 💻 Freelancer
 
 ### Find me elsewhere
 
