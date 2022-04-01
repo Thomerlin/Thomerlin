@@ -1,7 +1,7 @@
 ## Hey, I am Thomaz Ribeiro 🖖
 👨‍💻 Technology enthusiast, mainly in web dev, cyber security, game dev and blockchain
 	(Bitcoin). 
-- 📍 Living in Brazil
+- 📍  Living in Brazil
 - 💻 Freelancer
 
 ### Find me elsewhere
